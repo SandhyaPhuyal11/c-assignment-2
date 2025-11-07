@@ -1,13 +1,16 @@
-﻿namespace task1;
+﻿using System;
 
-class Program
+internal class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
-        String userName = "Sandhya";
-        int luckyNumber = 20;
+        // Declare variable to store name
+        string userName = "Sandhya";
 
-        Console.WriteLine($"Your username is {userName} and lucky number is your {luckyNumber}");
+        // Declare variable to store lucky number
+        int luckyNumber = 11;
+
+        // Print using string interpolation
+        Console.WriteLine($"Hello, {userName}! Your lucky number is {luckyNumber}.");
     }
 }
