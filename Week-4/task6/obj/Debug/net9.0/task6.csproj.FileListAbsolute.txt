@@ -1,0 +1,15 @@
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\bin\Debug\net9.0\task6.exe
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\bin\Debug\net9.0\task6.deps.json
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\bin\Debug\net9.0\task6.runtimeconfig.json
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\bin\Debug\net9.0\task6.dll
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\bin\Debug\net9.0\task6.pdb
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\obj\Debug\net9.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\obj\Debug\net9.0\task6.AssemblyInfoInputs.cache
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\obj\Debug\net9.0\task6.AssemblyInfo.cs
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\obj\Debug\net9.0\task6.csproj.CoreCompileInputs.cache
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\obj\Debug\net9.0\task6.sourcelink.json
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\obj\Debug\net9.0\task6.dll
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\obj\Debug\net9.0\refint\task6.dll
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\obj\Debug\net9.0\task6.pdb
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\obj\Debug\net9.0\task6.genruntimeconfig.cache
+C:\Users\Dines\Desktop\DOTNET\Week-4\task6\obj\Debug\net9.0\ref\task6.dll
